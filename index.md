@@ -3,8 +3,8 @@
 [Linkedin](https://www.linkedin.com/in/eduardo-sant-ana/)
 
 ## Meu projetos:
-[Java](https://github.com/EduardoSantAna1313/Java)
+* [Java](https://github.com/EduardoSantAna1313/Projetos-Java)
 
 # Projeto utilizando o MicroControlador TM4C123GXL
-![Tiva](tiva.jpg)
-[Repo](https://github.com/EduardoSantAna1313/Tiva)
+* [Repo](https://github.com/EduardoSantAna1313/Tiva)
+![Tiva](tiva.jpg =100x100)

@@ -7,4 +7,4 @@
 
 # Projeto utilizando o MicroControlador TM4C123GXL
 * [Repo](https://github.com/EduardoSantAna1313/Tiva)
-![Tiva](tiva.jpg =100x100)
+![](http://shukra.cedt.iisc.ernet.in/wiki/images/f/fe/Ek_tm4c123gxl_launchpad_board.png=100x100)

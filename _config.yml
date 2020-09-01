@@ -1,5 +1,11 @@
-theme: jekyll-theme-minimal
-tile: Eduardo Sant'Ana
+theme: minima
+author:
+  name: Eduardo Sant'Ana
+  email: eduardosantana1313@gmail.com
 description: "Eng da Coputação e programador"
-url: "https://eduardosantana1313.github.io/"
-github_username:  EduardoSantAna1313
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    github:  EduardoSantAna1313
+markdown            : kramdown
+highlighter         : rouge

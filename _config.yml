@@ -1,11 +1,11 @@
 theme: minima
+markdown            : kramdown
+highlighter         : rouge
+description: "Eng da Coputação e programador"
 author:
   name: Eduardo Sant'Ana
   email: eduardosantana1313@gmail.com
-description: "Eng da Coputação e programador"
 minima:
   date_format: "%b %-d, %Y"
   social_links:
     github:  EduardoSantAna1313
-markdown            : kramdown
-highlighter         : rouge
